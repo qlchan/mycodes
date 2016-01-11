@@ -1,12 +1,5 @@
 <?php 
-/**
- * @brief DES3加密, key必须是8位整倍数， 如果不足作补充
- * @copyright (c) 2011 Ganji Inc.
- * @author    duxiang duxiang@ganji.com
- * @date      时间: 2012-11-28:下午03:33:48
- * @version    1.0 
- *
- */
+
 class Des3EncryptAdapter {
     /**
      * @brief 密钥
