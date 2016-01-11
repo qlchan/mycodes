@@ -1,12 +1,5 @@
 <?php 
-/**
- * @brief DES加密, 为了保证java和object-c 跨平台的兼容性必须是8位
- * @copyright (c) 2011 Ganji Inc.
- * @author    duxiang duxiang@ganji.com
- * @date      时间: 2012-11-28:下午03:33:48
- * @version    1.0 
- *
- */
+
 class DesEncryptAdapter {
     /**
      * @brief 密钥
