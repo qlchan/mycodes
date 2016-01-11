@@ -1,13 +1,5 @@
 <?php 
-/**
- * @brief AES加密
- * @category   
- * @copyright (c) 2011 Ganji Inc.
- * @author    duxiang duxiang@ganji.com
- * @date      时间: 2012-11-28:下午03:48:13
- * @version    1.0 
- *
- */
+
 class AesEncryptAdapter {
     /**
      * @brief 加密
