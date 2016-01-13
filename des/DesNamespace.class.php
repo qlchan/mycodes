@@ -1,12 +1,6 @@
 <?PHP
 /**
- * @brief 加密类, DES 数据加密标准（data encryption standard）；
- * @category   
- * @copyright (c) 2011 Ganji Inc.
- * @author    duxiang duxiang@ganji.com
- * @date      时间: 2012-11-28:下午03:18:15
- * @version    1.0 
- *
+ *   对称性算法 
  */
 class DesNamespace {
     /** AES */
